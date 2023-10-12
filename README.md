@@ -6,6 +6,7 @@
 [![Build Docs](https://github.com/Legit-Labs/legitify/actions/workflows/build_docs.yaml/badge.svg)](https://github.com/Legit-Labs/legitify/actions/workflows/build_docs.yaml)
 [![Go Report Card](https://goreportcard.com/badge/github.com/Legit-Labs/legitify)](https://goreportcard.com/report/github.com/Legit-Labs/legitify)
 [![Maintained By Legit Security](https://img.shields.io/badge/Maintained%20by-Legit%20Security-blueviolet)](https://www.legitsecurity.com/)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fsandrociceros-claro%2Flegitify.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fsandrociceros-claro%2Flegitify?ref=badge_shield)
 <img referrerpolicy="no-referrer-when-downgrade" src="https://static.scarf.sh/a.png?x-pxid=6f4cbb25-54f4-4c47-b611-9b741732bb86" />
 <br/>
  <img width="250" alt="Legitify Logo" src="https://user-images.githubusercontent.com/74864790/174815311-746a0c98-9a1f-44a9-808c-035788edfd4d.png">
@@ -282,3 +283,7 @@ Here are some resources to help you get started:
 - [Code of Conduct](https://github.com/Legit-Labs/legitify/blob/main/CODE_OF_CONDUCT.md)
 - [Open an Issue](https://github.com/Legit-Labs/legitify/issues/new/choose)
 - [Open a Pull Request](https://github.com/Legit-Labs/legitify/compare)
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fsandrociceros-claro%2Flegitify.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fsandrociceros-claro%2Flegitify?ref=badge_large)
